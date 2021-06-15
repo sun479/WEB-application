@@ -1,2 +1,2 @@
 # WEB-application
-Wec application PT
+Web application PT
